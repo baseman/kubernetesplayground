@@ -7,10 +7,12 @@
 3. install minikube (see https://github.com/kubernetes/minikube/releases/)
 4. quick start (see https://kubernetes.io/docs/getting-started-guides/minikube/#quickstart)
 - Note: --vm-driver=xxx settings for your virtualization
-5. create manifest (https://kubernetes.io/docs/concepts/services-networking/service/)
+5. setup local repository
+6. create manifest (https://kubernetes.io/docs/concepts/services-networking/service/)
 
+More:
 
-More details:
+kompose (docker-compose.yaml -> k8s manifest.yaml) - https://github.com/kubernetes/kompose
 
 cheat sheet - https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 
