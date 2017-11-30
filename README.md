@@ -16,6 +16,6 @@ cheat sheet - https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 
 kubernetes RESTful api spec - https://kubernetes.io/docs/api-reference/v1.8
 
-kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1
-
-kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2
+issues encountered: 
+- http://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1
+- http://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-2
