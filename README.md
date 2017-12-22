@@ -16,7 +16,9 @@ kompose (docker-compose.yaml -> k8s manifest.yaml) - https://github.com/kubernet
 
 cheat sheet - https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 
-setup private repository - https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
+setup private repository
+- https://mtpereira.com/local-development-k8s.html
+- https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
 
 kubernetes RESTful api spec - https://kubernetes.io/docs/api-reference/v1.8
 
